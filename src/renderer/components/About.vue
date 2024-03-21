@@ -97,7 +97,7 @@
             this.$emit('about-hide');
           },
           openGithub () {
-            this.$electron.shell.openExternal('https://github.com/ridaamirini/ImapSyncClient');
+            this.$electron.shell.openExternal('https://github.com/AidanWarner97/ImapSyncClient');
           },
           handleUpdate: function () {
             if (this.updateAvailable) {

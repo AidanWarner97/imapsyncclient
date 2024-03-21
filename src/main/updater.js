@@ -2,7 +2,7 @@ import { autoUpdater } from 'electron-updater';
 import log from 'electron-log';
 import { app, ipcMain } from 'electron';
 
-let isAutomaticallyCheckingForUpdates = false;
+let isAutomaticallyCheckingForUpdates = true;
 
 app.once('browser-window-focus', (event, win) => {
   let __updateWin;
