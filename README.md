@@ -16,7 +16,7 @@ Download the latest version from the [releases](https://github.com/AidanWarner97
 
 ## Demo
 
-![image](https://github.com/AidanWarner97/ImapSyncClient/blob/dev/docs/media/preview.gif?raw=true)
+![image](https://raw.githubusercontent.com/AidanWarner97/imapsyncclient/master/docs/media/preview.gif)
 
 ### Import Mailboxes from CSV :page_facing_up:
 - [Example file *.csv](https://raw.githubusercontent.com/AidanWarner97/ImapSyncClient/1.0/docs/example/example.csv)
