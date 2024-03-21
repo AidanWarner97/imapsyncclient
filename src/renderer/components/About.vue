@@ -9,8 +9,13 @@
                 center>
             <span>
                 <el-row :gutter="12">
-                      <el-col :span="8">
-                            Author: Rida Amirini
+                      <el-col :span="16">
+                            Maintainer: Aidan Warner
+                      </el-col>
+                </el-row>
+                <el-row :gutter="12">
+                      <el-col :span="16">
+                            Original Author: Rida Amirini
                       </el-col>
                 </el-row>
                 <el-row :gutter="18">
