@@ -1,5 +1,3 @@
-# ImapSync Client [![Build Status](https://travis-ci.org/ridaamirini/ImapSyncClient.svg?branch=master)](https://travis-ci.org/ridaamirini/ImapSyncClient)
-
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/uses-html.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
@@ -14,17 +12,15 @@ ImapSync Client is an Email IMAP tool for syncing, copying and migrating email
 mailboxes between two imap servers, one way, and without duplicates.
 
 ## Download
-Download the latest version from the [releases](https://github.com/ridaamirini/imapsyncclient/releases/latest) page.
-
-_**Warning:** Note that versions below 1.0 will not work anymore. Please update to the latest version._
+Download the latest version from the [releases](https://github.com/AidanWarner97/imapsyncclient/releases/latest) page.
 
 ## Demo
 
-![image](https://github.com/ridaamirini/ImapSyncClient/blob/dev/docs/media/preview.gif?raw=true)
+![image](https://github.com/AidanWarner97/ImapSyncClient/blob/dev/docs/media/preview.gif?raw=true)
 
 ### Import Mailboxes from CSV :page_facing_up:
-- [Example file *.csv](https://raw.githubusercontent.com/ridaamirini/ImapSyncClient/1.0/docs/example/example.csv)
-- [Example file *.txt](https://raw.githubusercontent.com/ridaamirini/ImapSyncClient/1.0/docs/example/example.txt)
+- [Example file *.csv](https://raw.githubusercontent.com/AidanWarner97/ImapSyncClient/1.0/docs/example/example.csv)
+- [Example file *.txt](https://raw.githubusercontent.com/AidanWarner97/ImapSyncClient/1.0/docs/example/example.txt)
 
 #### Build Setup
 
@@ -37,7 +33,6 @@ npm run dev
 
 # build electron application for production
 npm run build
-
 
 # lint all JS/Vue component files in `src/`
 npm run lint
@@ -53,8 +48,7 @@ npm run lint
  - [imapsync.love](http://imapsync.love)
 
 ## TODO
-- [x] ~~Remove API dependency~~
-- [x] ~~Import Mailboxes from CSV~~
+- [] Update frontend UI
 
 ## License
 
